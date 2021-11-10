@@ -19,3 +19,5 @@ This application, developed in the Android Studio environment, processes the tem
   <img src="https://user-images.githubusercontent.com/73629361/141157578-4e13f217-d28b-4dab-af67-79d148d4982e.png">
   <img src="https://user-images.githubusercontent.com/73629361/141157091-cb0799b2-1102-4dda-87f9-4a0c12845d49.png">
 </p>
+
+This repository is under The MIT [License](https://github.com/RiteshPuvvada/WeatherApp/blob/main/LICENSE). Read the LICENSE file for more information.
