@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/akronim</item>
+        <item>@font/aladin</item>
+        <item>@font/almendra_display</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/arizonia</item>
+        <item>@font/bad_script</item>
+        <item>@font/bilbo</item>
+        <item>@font/galada</item>
+        <item>@font/give_you_glory</item>
+        <item>@font/homemade_apple</item>
+        <item>@font/jim_nightshade</item>
+        <item>@font/knewave</item>
+        <item>@font/waiting_for_the_sunrise</item>
+    </array>
+</resources>
