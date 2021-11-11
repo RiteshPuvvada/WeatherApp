@@ -4,8 +4,8 @@
 </div>
 
 ## About
-Simple and fast and free weather API from [OpenWeatherMap](https://openweathermap.org/) you have access to current weather data, hourly, 5-day and 16-day forecasts.
-This application, developed in the Android Studio environment, processes the temperature, wind, pressure, weather and humidity data fetched in JSON format and displays them to the user.
+Simple, free and fast weather API from [OpenWeatherMap](https://openweathermap.org/) you have access to the current weather data, hourly, 5-day and 16-day forecasts.
+This application developed in the Android Studio environment processes the temperature, wind, pressure, weather and humidity data fetched in JSON format and displays them to the user.
 
 ## Built with
 
