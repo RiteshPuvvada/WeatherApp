@@ -20,5 +20,17 @@ This application developed in the Android Studio environment processes the tempe
   <img src="https://user-images.githubusercontent.com/73629361/141157091-cb0799b2-1102-4dda-87f9-4a0c12845d49.png">
 </p>
 
+
+## Contributing
+
+Feel free to contribute to this project, but, be sure to <br>
+- [ ] Open up an issue stating the problem/feature to be alerted of.
+- [ ] Fork the repository and work on the issue.
+- [ ] Send a pull request after finishing up on the code.
+- [ ] Make sure you read [CONTRIBUTING.md](https://github.com/RiteshPuvvada/WeatherApp/blob/main/.github/CONTRIBUTING.md) 
+- [ ] The code will be reviewed and if all's good, merged into the main branch.
+
+Also, thanks for contributing to Open-source!
+
 ## License
 This repository is under The MIT [License](https://github.com/RiteshPuvvada/WeatherApp/blob/main/LICENSE). Read the LICENSE file for more information.
